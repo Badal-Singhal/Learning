@@ -1,4 +1,4 @@
 # Learning
 My First Project
 </br>
-Author- Mr. Badal
+Author- Mr. Badal Singhal
